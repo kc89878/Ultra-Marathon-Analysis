@@ -3,6 +3,8 @@
 ## 1. Background
 Ultramarathons, races exceeding the traditional marathon distance of 26.2 miles, have gained immense popularity in recent years. These endurance events attract athletes of all ages and backgrounds, pushing their physical and mental limits. Understanding the trends and factors influencing performance in ultramarathons can provide valuable insights for both runners and race organizers.
 
+![scotland-50](https://github.com/user-attachments/assets/2e1748b0-fb39-4338-bf27-437d8e9ecd4b)
+
 ## 2. Introduction
 This project delves into the world of ultramarathons, analyzing a vast dataset of over 7 million race records spanning two centuries. Using Python, Pandas and Seaborn, we explore the data to uncover interesting trends and insights about ultramarathon runners and their performances.
 
@@ -43,3 +45,5 @@ This project aims to answer several business questions related to ultramarathons
 
 
 By answering these questions, we gain valuable insights into the ultramarathon running community and the factors that contribute to success in these challenging events.
+
+Lets get started!!!
