@@ -26,9 +26,9 @@ Runner Information: Runner's name, age, gender, and finishing time.
 ## 5. Analyst Questions
 This project aims to answer several business questions related to ultramarathons, including:
 
-● How do runner speeds differ between 50K and 50-mile races, and how does gender influence these differences?
-● What age groups are most successful in 50-mile races, and what are the minimum race participation requirements for these groups?
-● Is there a noticeable difference in runner speed between summer and winter races?
-● What are the key factors influencing runner performance in ultramarathons?
+  How do runner speeds differ between 50K and 50-mile races, and how does gender influence these differences?
+  What age groups are most successful in 50-mile races, and what are the minimum race participation requirements for these groups?
+  Is there a noticeable difference in runner speed between summer and winter races?
+  What are the key factors influencing runner performance in ultramarathons?
 
 By answering these questions, we gain valuable insights into the ultramarathon running community and the factors that contribute to success in these challenging events.
