@@ -11,16 +11,16 @@ This project delves into the world of ultramarathons, analyzing a vast dataset o
 ## 3. Aims
 The primary aim of this project is to conduct an exploratory data analysis (EDA) of the ultramarathon dataset. This includes:
 
-** Data Cleaning **: Cleaning and preparing the data for analysis, addressing inconsistencies and missing values.
+** Data Cleaning ** : Cleaning and preparing the data for analysis, addressing inconsistencies and missing values.
 
 
-** Descriptive Analysis **: Exploring key variables like race distance, runner age, gender, and finishing time to understand the overall distribution and characteristics of the data.
+** Descriptive Analysis ** : Exploring key variables like race distance, runner age, gender, and finishing time to understand the overall distribution and characteristics of the data.
 
 
-** Visualizations **: Creating insightful visualizations to highlight trends and patterns in the data, such as histograms, scatter plots, and box plots.
+** Visualizations ** : Creating insightful visualizations to highlight trends and patterns in the data, such as histograms, scatter plots, and box plots.
 
 
-** Comparative Analysis **: Comparing different race distances, genders, and age groups to identify significant differences and potential factors influencing performance.
+** Comparative Analysis ** : Comparing different race distances, genders, and age groups to identify significant differences and potential factors influencing performance.
 
 ## 4. Dataset
 The dataset used in this project is a collection of ultramarathon race records from Kaggle. It contains information about:
