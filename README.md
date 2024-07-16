@@ -4,7 +4,7 @@
 Ultramarathons, races exceeding the traditional marathon distance of 26.2 miles, have gained immense popularity in recent years. These endurance events attract athletes of all ages and backgrounds, pushing their physical and mental limits. Understanding the trends and factors influencing performance in ultramarathons can provide valuable insights for both runners and race organizers.
 
 ## 2. Introduction
-This project delves into the world of ultramarathons, analyzing a vast dataset of over 7 million race records spanning two centuries. Using Python and Pandas, we explore the data to uncover interesting trends and insights about ultramarathon runners and their performances.
+This project delves into the world of ultramarathons, analyzing a vast dataset of over 7 million race records spanning two centuries. Using Python, Pandas and Seaborn, we explore the data to uncover interesting trends and insights about ultramarathon runners and their performances.
 
 ## 3. Aims
 The primary aim of this project is to conduct an exploratory data analysis (EDA) of the ultramarathon dataset. This includes:
@@ -20,7 +20,7 @@ Comparative Analysis: Comparing different race distances, genders, and age group
 ## 4. Dataset
 The dataset used in this project is a collection of ultramarathon race records from Kaggle. It contains information about:
 
-Race Details: Race name, date, distance, location, and number of finishers.
+Race Details: Race name, date, distance, location, and number of finishers. /n
 Runner Information: Runner's name, age, gender, and finishing time.
 
 ## 5. Analyst Questions
