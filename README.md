@@ -49,6 +49,3 @@ This project aims to answer several business questions related to ultramarathons
 By answering these questions, we gain valuable insights into the ultramarathon running community and the factors that contribute to success in these challenging events.
 
 ## Lets get started!!!
-
-## Reference
-Project Created by RyanNolanData
