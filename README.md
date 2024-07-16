@@ -1,5 +1,4 @@
-# Ultra-Marathon-Analysis
-In this project, we will conduct an Exploratory Data Analysis (EDA) using Python Pandas on a large database
+# Ultramarathon Data Analysis: Exploring Trends and Insights
 
 ## 1. Background
 Ultramarathons, races exceeding the traditional marathon distance of 26.2 miles, have gained immense popularity in recent years. These endurance events attract athletes of all ages and backgrounds, pushing their physical and mental limits. Understanding the trends and factors influencing performance in ultramarathons can provide valuable insights for both runners and race organizers.
